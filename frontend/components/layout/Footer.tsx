@@ -62,7 +62,7 @@ export function Footer() {
                         Technology Partner
                     </p>
                     <a
-                        href="https://chilekotha.top"
+                        href="https://chilekotha.xyz"
                         target="_blank"
                         rel="noopener noreferrer"
                         title="Visit Chilekotha at chilekotha.top"
@@ -80,7 +80,7 @@ export function Footer() {
                                 Chilekotha
                             </span>
                             <span className="block text-xs font-medium text-primary-foreground/70">
-                                chilekotha.top
+                                chilekotha.xyz
                             </span>
                         </div>
                     </a>
